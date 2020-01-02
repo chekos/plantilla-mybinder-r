@@ -2,3 +2,5 @@
 ***
 # plantilla-mybinder-r
 Un repositorio plantilla para crear otros repositorios "binderizados" para tus proyectos de R.
+
+# No esta funcionando - problemas con mybinder y la version default de R :/
